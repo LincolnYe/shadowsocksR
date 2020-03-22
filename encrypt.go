@@ -10,10 +10,10 @@ import (
 	"encoding/binary"
 	"errors"
 
-	"github.com/sun8911879/shadowsocksR/tools"
-	"github.com/sun8911879/shadowsocksR/tools/leakybuf"
+	"github.com/LincolnYe/shadowsocksR/tools"
+	"github.com/LincolnYe/shadowsocksR/tools/leakybuf"
 
-	"github.com/Yawning/chacha20"
+	"github.com/LincolnYe/chacha20"
 	"github.com/dgryski/go-camellia"
 	"github.com/dgryski/go-idea"
 	"github.com/dgryski/go-rc2"
